@@ -1,0 +1,15 @@
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\bin\Debug\net6.0\CS_assignmentProject.exe
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\bin\Debug\net6.0\CS_assignmentProject.deps.json
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\bin\Debug\net6.0\CS_assignmentProject.runtimeconfig.json
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\bin\Debug\net6.0\CS_assignmentProject.dll
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\bin\Debug\net6.0\CS_assignmentProject.pdb
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\CS_assignmentProject.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\CS_assignmentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\CS_assignmentProject.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\CS_assignmentProject.AssemblyInfo.cs
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\CS_assignmentProject.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\CS_assignmentProject.dll
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\refint\CS_assignmentProject.dll
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\CS_assignmentProject.pdb
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\CS_assignmentProject.genruntimeconfig.cache
+C:\Users\Anton\Desktop\Проекты\CS_assignmentProject\obj\Debug\net6.0\ref\CS_assignmentProject.dll
