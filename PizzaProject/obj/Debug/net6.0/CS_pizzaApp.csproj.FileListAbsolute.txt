@@ -1,0 +1,15 @@
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\bin\Debug\net6.0\CS_pizzaApp.exe
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\bin\Debug\net6.0\CS_pizzaApp.deps.json
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\bin\Debug\net6.0\CS_pizzaApp.runtimeconfig.json
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\bin\Debug\net6.0\CS_pizzaApp.dll
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\bin\Debug\net6.0\CS_pizzaApp.pdb
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\CS_pizzaApp.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\CS_pizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\CS_pizzaApp.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\CS_pizzaApp.AssemblyInfo.cs
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\CS_pizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\CS_pizzaApp.dll
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\refint\CS_pizzaApp.dll
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\CS_pizzaApp.pdb
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\CS_pizzaApp.genruntimeconfig.cache
+C:\Users\Anton\Desktop\Проекты\CS_pizzaApp\obj\Debug\net6.0\ref\CS_pizzaApp.dll
