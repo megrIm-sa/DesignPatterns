@@ -1,0 +1,15 @@
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\bin\Debug\net6.0\CS_imageConverter.exe
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\bin\Debug\net6.0\CS_imageConverter.deps.json
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\bin\Debug\net6.0\CS_imageConverter.runtimeconfig.json
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\bin\Debug\net6.0\CS_imageConverter.dll
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\bin\Debug\net6.0\CS_imageConverter.pdb
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\CS_imageConverter.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\CS_imageConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\CS_imageConverter.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\CS_imageConverter.AssemblyInfo.cs
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\CS_imageConverter.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\CS_imageConverter.dll
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\refint\CS_imageConverter.dll
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\CS_imageConverter.pdb
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\CS_imageConverter.genruntimeconfig.cache
+C:\Users\Anton\Desktop\Проекты\CS_imageConverter\obj\Debug\net6.0\ref\CS_imageConverter.dll
