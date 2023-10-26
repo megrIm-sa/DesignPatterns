@@ -1,0 +1,15 @@
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\MagazineSubscription.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\MagazineSubscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\MagazineSubscription.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\MagazineSubscription.AssemblyInfo.cs
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\MagazineSubscription.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\bin\Debug\net6.0\MagazineSubscription.exe
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\bin\Debug\net6.0\MagazineSubscription.deps.json
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\bin\Debug\net6.0\MagazineSubscription.runtimeconfig.json
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\bin\Debug\net6.0\MagazineSubscription.dll
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\bin\Debug\net6.0\MagazineSubscription.pdb
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\MagazineSubscription.dll
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\refint\MagazineSubscription.dll
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\MagazineSubscription.pdb
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\MagazineSubscription.genruntimeconfig.cache
+C:\Users\Anton\Desktop\Проекты\MagazineSubscription\obj\Debug\net6.0\ref\MagazineSubscription.dll
