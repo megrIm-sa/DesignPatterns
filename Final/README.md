@@ -17,7 +17,7 @@ The project uses Singleton to store a customer database. Provided functionality 
 
 Part of the notifications contains: an observer for signing and unsubscribing users whose order is being processed. Next is the decorator to choose between notification by mail or via WhatsApp. The following adapter pattern is needed to adapt the interface for sending notifications via mail.
 
-Part of the production contains: the Factor pattern, which allows you to create computer components based on the principle of valuable division. The strategy pattern is used to switch between the production of processors and video cards.
+Part of the production contains: the Factory pattern, which allows you to create computer components based on the principle of valuable division. The strategy pattern is used to switch between the production of processors and video cards.
 
 ![uml diagram](https://github.com/megrIm-sa/DesignPatterns/blob/main/Final/sdp_final.jpg)
 
