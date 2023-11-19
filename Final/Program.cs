@@ -35,6 +35,7 @@
             customerDatabase.RemoveFromList(customer);
 
             Console.WriteLine("\n--- Custom done ---\n\n");
+            Console.ReadKey();
         }
 
         static private void AddOwnCustom()
